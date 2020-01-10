@@ -19,8 +19,8 @@ public class Main {
 	 * Êl metodo operativa_cuenta() define todas las operaciones con el saldo actualmente disponible.
 	 * La cantidad que ingresa el usuario debe ser positiva o la cantidad inferior o negativa al saldo, la operación se realiza satisfactoriamente.
 	 * En todos los demas supuesto se realiza una excepcion.
-	 * @param La variable cuenta1 es la que se encarga de guardar la referencia al saldo disponible.
-	 * @param La variable cantidad almacena el importe con el que se realiza la operacion sobre el saldo que tenga.
+	 * @param La var cuenta1 es la que se encarga de guardar la referencia al saldo disponible.
+	 * @param La var cantidad almacena el importe con el que se realiza la operacion sobre el saldo que tenga.
 	 * */
 
 	public static void operativa_cuenta() {
